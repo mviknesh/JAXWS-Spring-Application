@@ -1,0 +1,3 @@
+com\javacodegeeks\enterprise\bo\MyBObject.class
+com\javacodegeeks\enterprise\bo\impl\MyBObjectImpl.class
+com\javacodegeeks\enterprise\ws\MyWebService.class
